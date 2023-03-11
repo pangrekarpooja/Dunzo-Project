@@ -1,0 +1,93 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    overflow-x: hidden;
+}
+.logo{
+    box-sizing: content-box;
+    width: 122px;
+    height: 28px;
+    margin-left: 109px;
+}
+.submenu{
+position: relative;
+left: 118px;
+}
+.park{
+background-color: #702aa5;
+padding: 0px;
+margin: 0px;
+height: 50px;
+ 
+}
+
+.card1 .img1{
+    height: 46px;
+}
+
+.mid img{
+width:205px ;
+height: 237px;
+position:relative;
+left: 280px; 
+
+}
+.kdf img{
+ position: relative;
+left:500px;
+}
+
+.mad img{
+ position: relative;
+ left:60px;
+
+}
+
+.abc p a{
+    text-decoration: none;
+    color:rgb(146, 141, 141);
+}
+.btn2{
+    position: relative;
+    bottom:100px;
+}
+.btn1{
+
+   
+  
+    width: 100px;
+}
+.xyz img {
+
+height:300px;
+width:400px;
+       
+}
+footer a{
+    text-decoration: none;
+    color: white;
+
+}
+.CP img{
+    width:50px;
+    height:80px;
+
+
+}
+
+.flogo img{
+    width: 100/px;
+    height: 100px;
+}
+
+.icon{
+    width:300px ;
+  
+}
+
+.l1 a{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+
+
